@@ -1,2 +1,3 @@
 # Thread-safe-Stack
-An Thread-safe stack class
+
+Implementat a Thread-safe Stack with @synchronized. 
